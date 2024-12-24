@@ -1,6 +1,6 @@
 # Simon Game with MemeCoin Integration
 
-A fun and interactive Simon game built on the Mantle network, with players staking MemeCoins to advance levels and withdraw winnings. Players can interact with the contract via their NeoX address, and their progress is tracked on-chain.
+A fun and interactive Simon game built on NeoX, with players staking MemeCoins to advance levels and withdraw winnings. Players can interact with the contract via their NeoX address, and their progress is tracked on-chain.
 
 ## Features
 
