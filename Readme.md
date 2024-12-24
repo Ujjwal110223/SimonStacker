@@ -40,3 +40,14 @@ A fun and interactive Simon game built on the Mantle network, with players staki
 ## Interacting with the Contract
 
 This project interacts with the NeoX blockchain through MetaMask or another NeoX-compatible wallet. Ensure your wallet is connected to the NeoX Testnet before playing.
+
+## Screenshots
+<img width="1440" alt="Screenshot 2024-12-25 at 12 40 02 AM" src="https://github.com/user-attachments/assets/aa163ba8-c5d4-40fe-94e9-328dfecb718d" />
+<img width="1439" alt="Screenshot 2024-12-25 at 12 19 38 AM" src="https://github.com/user-attachments/assets/211cfb83-2b8c-46d6-bd9b-6cb9fef41ef8" />
+<img width="1438" alt="Screenshot 2024-12-25 at 12 20 48 AM" src="https://github.com/user-attachments/assets/8522fdf6-1609-491b-a17e-3b729964fbd7" />
+<img width="1439" alt="Screenshot 2024-12-25 at 12 31 34 AM" src="https://github.com/user-attachments/assets/bc7f3697-f4c8-462d-8559-58ae1f3cd8ce" />
+
+
+
+
+
