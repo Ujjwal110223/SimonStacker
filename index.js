@@ -1,4 +1,4 @@
-const contractAddress = "0x6728e675CF8F57D08E11ee97Bd4690Fc7fF0077f";
+const contractAddress = "0x2AE7E03C28f35c56C45e01f4FA62f6e80dc903d1";
 const memeCoinAddress = "0xB6Afd155dE5eE15ED489B7793346155aF714D705";
 const contractABI = [
 	{
