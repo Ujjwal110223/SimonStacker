@@ -11,12 +11,12 @@ A fun and interactive Simon game built on NeoX, with players staking MemeCoins t
 
 ## Contract Details
 
-- **Contract Address**: `0x6728e675CF8F57D08E11ee97Bd4690Fc7fF0077f`
-- **Network**: Neo X Testnet T4
+- **Contract Address**: `0x2AE7E03C28f35c56C45e01f4FA62f6e80dc903d1`
+- **Network**: Neo X Mainnet
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://xt4scan.ngd.network/address/0x6728e675CF8F57D08E11ee97Bd4690Fc7fF0077f)
+- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0x2AE7E03C28f35c56C45e01f4FA62f6e80dc903d1)
 - **Coin Used**: GAS
 
 ## How It Works
