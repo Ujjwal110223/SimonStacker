@@ -1,6 +1,6 @@
 # Simon Game with MemeCoin Integration
 
-A fun and interactive Simon game built on NeoX, with players staking MemeCoins to advance levels and withdraw winnings. Players can interact with the contract via their NeoX address, and their progress is tracked on-chain.
+A fun and interactive Simon game built on Flow, with players staking MemeCoins to advance levels and withdraw winnings. Players can interact with the contract via their Flow address, and their progress is tracked on-chain.
 
 ## Features
 
@@ -12,12 +12,12 @@ A fun and interactive Simon game built on NeoX, with players staking MemeCoins t
 ## Contract Details
 
 - **Contract Address**: `0x2AE7E03C28f35c56C45e01f4FA62f6e80dc903d1`
-- **Network**: Neo X Mainnet
+- **Network**: Flow Testnet
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0x2AE7E03C28f35c56C45e01f4FA62f6e80dc903d1)
-- **Coin Used**: GAS
+- **Contract Address**: [View on Explorer](http://evm-testnet.flowscan.io/address/0x2AE7E03C28f35c56C45e01f4FA62f6e80dc903d1)
+- **Coin Used**: FLOW
 
 ## How It Works
 
@@ -39,7 +39,7 @@ A fun and interactive Simon game built on NeoX, with players staking MemeCoins t
 
 ## Interacting with the Contract
 
-This project interacts with the NeoX blockchain through MetaMask or another NeoX-compatible wallet. Ensure your wallet is connected to the NeoX Testnet before playing.
+This project interacts with the Flow blockchain through MetaMask or another Flow-compatible wallet. Ensure your wallet is connected to the Flow Testnet before playing.
 
 ## Screenshots
 <img width="1440" alt="Screenshot 2024-12-25 at 12 40 02 AM" src="https://github.com/user-attachments/assets/aa163ba8-c5d4-40fe-94e9-328dfecb718d" />
