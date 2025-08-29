@@ -43,10 +43,10 @@ This project interacts with the Flow blockchain through MetaMask or another Flow
 
 ## Screenshots
 <img width="1440" alt="Screenshot 2024-12-25 at 12 40 02 AM" src="https://github.com/user-attachments/assets/aa163ba8-c5d4-40fe-94e9-328dfecb718d" />
-<img width="1439" alt="Screenshot 2024-12-25 at 12 19 38 AM" src="https://github.com/user-attachments/assets/211cfb83-2b8c-46d6-bd9b-6cb9fef41ef8" />
-<img width="1438" alt="Screenshot 2024-12-25 at 12 20 48 AM" src="https://github.com/user-attachments/assets/8522fdf6-1609-491b-a17e-3b729964fbd7" />
-<img width="1439" alt="Screenshot 2024-12-25 at 12 31 34 AM" src="https://github.com/user-attachments/assets/bc7f3697-f4c8-462d-8559-58ae1f3cd8ce" />
 
+<img width="1280" height="713" alt="Screenshot 2025-08-30 at 2 32 30 AM" src="https://github.com/user-attachments/assets/06e8417e-893a-4084-b55c-14d4468d8de6" />
+
+<img width="1209" height="621" alt="Screenshot 2025-08-30 at 2 33 12 AM" src="https://github.com/user-attachments/assets/bc887009-5c88-4f57-b389-92eb7fbc92b4" />
 
 
 
