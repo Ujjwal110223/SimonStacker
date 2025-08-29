@@ -11,12 +11,12 @@ A fun and interactive Simon game built on Flow, with players staking MemeCoins t
 
 ## Contract Details
 
-- **Contract Address**: `0x2AE7E03C28f35c56C45e01f4FA62f6e80dc903d1`
+- **Contract Address**: `0x7302f8d26173165D475A20e7185aBd99459568e9`
 - **Network**: Flow Testnet
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer](http://evm-testnet.flowscan.io/address/0x2AE7E03C28f35c56C45e01f4FA62f6e80dc903d1)
+- **Contract Address**: [View on Explorer](http://evm-testnet.flowscan.io/address/0x7302f8d26173165D475A20e7185aBd99459568e9)
 - **Coin Used**: FLOW
 
 ## How It Works
